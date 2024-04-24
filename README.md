@@ -19,7 +19,7 @@ The information by default is displayed alongside your operating system's logo. 
 
 You can further configure Neofetch to display exactly what you want it to. Through the use of command-line flags and the configuration file you can change existing information outputs or add your own custom ones.
 
-This Neofetch modified version supports almost (pendiente de colocar) different operating systems. From RafarixOS and other popular systems.
+This Neofetch modified version support RafarixOS and other popular systems.
 
 
 ### More: \[[Dependencies](https://github.com/dylanaraps/neofetch/wiki/Dependencies)\] \[[Installation](https://github.com/dylanaraps/neofetch/wiki/Installation)\] \[[Wiki](https://github.com/dylanaraps/neofetch/wiki)\]

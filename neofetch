@@ -5745,7 +5745,7 @@ EOF
         ;;
 
         "RafarixOS"*)
-            set_colors 5
+            set_colors 35
             read -rd '' ascii_data <<'EOF'
 ${c1}
   S@@@@@@@@@@@@@@@@@@@@#S         

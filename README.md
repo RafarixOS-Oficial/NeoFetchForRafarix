@@ -11,7 +11,7 @@
 
 Neofetch is a command-line system information tool written in `bash 3.2+`. Neofetch displays information about your operating system.
 
-This Neofetch modified version support RafarixOS and other popular systems.
+This Neofetch modified version supports RafarixOS and other popular systems.
 
 
 ### More: \[[Dependencies](https://github.com/dylanaraps/neofetch/wiki/Dependencies)\] \[[Installation](https://github.com/dylanaraps/neofetch/wiki/Installation)\] \[[Wiki](https://github.com/dylanaraps/neofetch/wiki)\]
